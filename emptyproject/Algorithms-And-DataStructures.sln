@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{5CE450A1-31D9-4EE5-B922-2761E4A3E516}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurboCollections", "TurboCollections\TurboCollections.csproj", "{1D23B6D8-CC71-423A-95C6-FB35AE6C03C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CE450A1-31D9-4EE5-B922-2761E4A3E516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CE450A1-31D9-4EE5-B922-2761E4A3E516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CE450A1-31D9-4EE5-B922-2761E4A3E516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CE450A1-31D9-4EE5-B922-2761E4A3E516}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D23B6D8-CC71-423A-95C6-FB35AE6C03C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D23B6D8-CC71-423A-95C6-FB35AE6C03C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D23B6D8-CC71-423A-95C6-FB35AE6C03C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D23B6D8-CC71-423A-95C6-FB35AE6C03C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
