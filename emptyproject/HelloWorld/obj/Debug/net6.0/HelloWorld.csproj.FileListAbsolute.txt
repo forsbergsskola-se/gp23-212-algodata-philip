@@ -1,0 +1,15 @@
+C:\Projects\gp23-212-algodata-philip\emptyproject\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+C:\Projects\gp23-212-algodata-philip\emptyproject\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+C:\Projects\gp23-212-algodata-philip\emptyproject\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+C:\Projects\gp23-212-algodata-philip\emptyproject\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+C:\Projects\gp23-212-algodata-philip\emptyproject\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+C:\Projects\gp23-212-algodata-philip\emptyproject\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+C:\Projects\gp23-212-algodata-philip\emptyproject\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\gp23-212-algodata-philip\emptyproject\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Projects\gp23-212-algodata-philip\emptyproject\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+C:\Projects\gp23-212-algodata-philip\emptyproject\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Projects\gp23-212-algodata-philip\emptyproject\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+C:\Projects\gp23-212-algodata-philip\emptyproject\HelloWorld\obj\Debug\net6.0\refint\HelloWorld.dll
+C:\Projects\gp23-212-algodata-philip\emptyproject\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+C:\Projects\gp23-212-algodata-philip\emptyproject\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
+C:\Projects\gp23-212-algodata-philip\emptyproject\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll
