@@ -1,5 +1,9 @@
 ﻿namespace TurboCollections;
 
-public class Class1
+public static class TurboMaths
 {
+    public static void SayHello()
+    {
+        Console.WriteLine($"Hello, I'm {typeof(TurboMaths).FullName}");
+    }
 }
