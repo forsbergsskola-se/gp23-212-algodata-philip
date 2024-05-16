@@ -5,7 +5,7 @@ public static class TurboMathsTests
     [Test]
     public static void SayHelloExists()
     {
-        TurboMaths.
+        TurboMaths.SayHello();
         Assert.Pass();
     }
 }

@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "TurboCollections/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TurboCollections.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TurboCollections.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "TurboCollections/1.0.0": {
+      "type": "project",
+      "path": "../TurboCollections/TurboCollections.csproj",
+      "msbuildProject": "../TurboCollections/TurboCollections.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "TurboCollections >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\marsv\\.nuget\\packages\\": {},
@@ -41,7 +60,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Projects\\gp23-212-algodata-philip\\emptyproject\\TurboCollections\\TurboCollections.csproj": {
+              "projectPath": "C:\\Projects\\gp23-212-algodata-philip\\emptyproject\\TurboCollections\\TurboCollections.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

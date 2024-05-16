@@ -13,3 +13,6 @@ C:\Projects\gp23-212-algodata-philip\emptyproject\HelloWorld\obj\Debug\net6.0\re
 C:\Projects\gp23-212-algodata-philip\emptyproject\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
 C:\Projects\gp23-212-algodata-philip\emptyproject\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
 C:\Projects\gp23-212-algodata-philip\emptyproject\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll
+C:\Projects\gp23-212-algodata-philip\emptyproject\HelloWorld\bin\Debug\net6.0\TurboCollections.dll
+C:\Projects\gp23-212-algodata-philip\emptyproject\HelloWorld\bin\Debug\net6.0\TurboCollections.pdb
+C:\Projects\gp23-212-algodata-philip\emptyproject\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CopyComplete

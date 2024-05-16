@@ -9,6 +9,24 @@
   <component name="ChangeListManager">
     <list default="true" id="a8c8f184-5cd6-40fc-b23f-ef98732b7de5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Algorithms-And-DataStructures/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Algorithms-And-DataStructures/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/HelloWorld.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/HelloWorld.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/bin/Debug/net6.0/HelloWorld.dll" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/bin/Debug/net6.0/HelloWorld.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/obj/Debug/net6.0/HelloWorld.dll" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/obj/Debug/net6.0/HelloWorld.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/obj/Debug/net6.0/refint/HelloWorld.dll" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/obj/Debug/net6.0/refint/HelloWorld.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/obj/HelloWorld.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/obj/HelloWorld.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TurboCollections.Test/UnitTest1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TurboCollections.Test/UnitTest1.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +37,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="Toolset" />
+    <option name="selectedTabId" value="SWEA" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -83,6 +101,7 @@
       <workItem from="1715696027975" duration="132000" />
       <workItem from="1715696188929" duration="441000" />
       <workItem from="1715700410609" duration="2782000" />
+      <workItem from="1715863182193" duration="863000" />
     </task>
     <servers />
   </component>
