@@ -9,8 +9,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a8c8f184-5cd6-40fc-b23f-ef98732b7de5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Algorithms-And-DataStructures/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Algorithms-And-DataStructures/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms-And-DataStructures.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms-And-DataStructures.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TurboCollections/Class1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TurboCollections/Class1.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +82,7 @@
       <updated>1715696026807</updated>
       <workItem from="1715696027975" duration="132000" />
       <workItem from="1715696188929" duration="441000" />
-      <workItem from="1715700410609" duration="1978000" />
+      <workItem from="1715700410609" duration="2782000" />
     </task>
     <servers />
   </component>
