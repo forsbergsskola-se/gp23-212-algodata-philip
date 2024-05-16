@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurboCollections", "TurboCo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurboCollections.Test", "TurboCollections.Test\TurboCollections.Test.csproj", "{EDE5A3DC-F8D5-4E89-9018-1B1F487B56B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P1_2_Collections", "P1_2_Collections\P1_2_Collections.csproj", "{0193E604-21CB-49C1-81B0-497ACCD79DBE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{EDE5A3DC-F8D5-4E89-9018-1B1F487B56B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDE5A3DC-F8D5-4E89-9018-1B1F487B56B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDE5A3DC-F8D5-4E89-9018-1B1F487B56B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0193E604-21CB-49C1-81B0-497ACCD79DBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0193E604-21CB-49C1-81B0-497ACCD79DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0193E604-21CB-49C1-81B0-497ACCD79DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0193E604-21CB-49C1-81B0-497ACCD79DBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
