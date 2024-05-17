@@ -9,3 +9,8 @@ public static class TurboMathsTests
         Assert.Pass();
     }
 }
+
+public static class TurboLinkedStackTests
+{
+    
+}
