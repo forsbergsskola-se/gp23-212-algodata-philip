@@ -7,26 +7,28 @@ public static class TurboMaths
         Console.WriteLine($"Hello, I'm {typeof(TurboMaths).FullName}");
     }
     
-    public static IEnumerable<int> GetEvenNumbers(List<int> list)
+    public static IEnumerable<int> GetEvenNumbers(int maxNumber)
     {
-        for (int i = 0; i < list.Count; i++)
+        for (int i = 0; i < maxNumber; i++)
         {
             if (i % 2 == 0)
             {
-                yield return list[i];
+                yield return i;
             }
         }
     }
 
-    public static IEnumerable<int> GetEvenNumbersList(List<int> list)
+    public static IEnumerable<int> GetEvenNumbersList(int maxNumber)
     {
-        for (int i = 0; i < list.Count; i++)
+        List<int> evenNumbers = new List<int>();
+        for (int i = 0; i < maxNumber; i++)
         {
             if (i % 2 == 0)
             {
-                list.Add(i);
+                evenNumbers.Add(i);
             }
         }
-        return list;
+
+        return evenNumbers;
     }
 }
